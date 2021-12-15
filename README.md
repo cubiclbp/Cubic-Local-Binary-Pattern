@@ -1,13 +1,17 @@
 # Cubic-Local-Binary-Pattern
-Cubic-LBP source code (MATLAB). 
+Cubic-LBP source code (MATLAB).
+
 This function is to compute the Cubic-LBP features for a video sequence.
 
 If you use this MATLAB code, please cite the following publication:
 V. Esmaeili and S.O. Shahdi, “Automatic micro-expression apex spotting using Cubic-LBP,” Multimedia Tools and Applications, pp. 1-9, 2020.
 
 Reference: 
+
 (The original paper):
+
 V. Esmaeili and S.O. Shahdi, “Automatic micro-expression apex spotting using Cubic-LBP,” Multimedia Tools and Applications, pp. 1-9, 2020.
+
 Copyright 2020 by Vida Esmaeili & Seyed Omid Shahdi.
 Matlab version was Created by Vida Esmaeili.
 If you have any problem, please feel free to contact Vida Esmaeili or Seyed Omid Shahdi.
@@ -16,7 +20,9 @@ shahdi@qiau.ac.ir
 
 Vida Esmaeili:
 V.Esmaeili@qiau.ac.ir
+
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Function: Running this funciton each time to compute the Cubic-LBP distribution of one video sequence.
 
 Inputs:
